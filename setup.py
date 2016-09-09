@@ -6,7 +6,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='django-simple-quiz',
-    version='0.1.0',
+    version='0.1.1',
     author="Mike Dingjan",
     author_email='mike@mikedingjan.nl',
     url='',
